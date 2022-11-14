@@ -1,0 +1,5 @@
+@media (max-width: 27rem) {
+    :root {
+        --sun-size: 80vw;
+    }
+}
